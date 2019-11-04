@@ -1,1 +1,0 @@
-learn stage in Git repository.
